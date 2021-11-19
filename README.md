@@ -38,4 +38,4 @@
 ######   passSan=str(myObject.data) 
 ######   payload = passSan[6:][:-1]
 ######   decodePassSan(payload)
-![Screenshot](https://github.com/go-mcf/EU-DigitalCovidCertificateViewer/blob/main/Screenshot.JPG?raw=true)
+![Screenshot](https://github.com/go-mcf/EU-DigitalCovidCertificateViewer/blob/main/Screenshot.JPG)
